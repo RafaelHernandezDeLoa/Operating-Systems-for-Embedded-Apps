@@ -131,8 +131,7 @@ int mlfq (Queue* q[],int num_queues, int timeslice){
 
 
 int main() {
-    //printf("Many queues do you want?");
-    //scanf(%d, stdinq);
+    //example case to run the above code
     Queue* q[3];
     int num_queues = sizeof(q)/sizeof(q[0]);
 
