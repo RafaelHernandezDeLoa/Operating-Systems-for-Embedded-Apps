@@ -32,3 +32,20 @@ Consumers show up every TBD seconds. Each consumer is a new thread.
 
 Producers show up every TBD seconds. Each producer is a new thread.
 
+
+Seminar #4 description:
+create your own custom linux driver
+
+Hints:  
+
+https://linux.die.net/man/3/writeLinks to an external site.
+https://linux.die.net/man/3/readLinks to an external site.
+man ioctl
+include fs.h and uaccess.h
+nice to have for ioctl:
+use a structure that is shared between the driver and the user space application
+have 2 integers inside the structure 
+param_name (e.g.: READ_POINTER, WRITE_POINTER, RESET_READ_POINTER, RESET_WRITE_POINTER)
+param_value (e.g.: 0)
+
+note: I have to say that my kernal is a hangman game and probably specify it a bit more.
