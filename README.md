@@ -1,6 +1,6 @@
 # Operating-Systems-for-Embedded-Apps
 
-group/partners effort too
+group/partners effort too, explain that we are group A1
 
 
 Seminar #1 description: 
