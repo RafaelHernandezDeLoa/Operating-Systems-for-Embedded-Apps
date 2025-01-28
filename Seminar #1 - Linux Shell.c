@@ -62,7 +62,7 @@ int main (int argc, char** argv) {
             printf("\nHelp Page\n\n");
             printf("help -lists commands for A1 Shell\n");
             printf("exit - exits the shell\n");
-            printf("Usr/bin commands are available as well\n")
+            printf("Usr/bin commands are available as well\n");
         }
         else if (strcmp(in, "exit") == 0) {
             printf("Exiting the A1 shell");
