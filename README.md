@@ -47,4 +47,4 @@ have 2 integers inside the structure \
 param_name (e.g.: READ_POINTER, WRITE_POINTER, RESET_READ_POINTER, RESET_WRITE_POINTER)\
 param_value (e.g.: 0)\
 
-Note on my Seminar #4: Our kernel is a hangman game and probably specify it a bit more......................
+Note on my Seminar #4: For this final seminar, we chose to make a hangman game where 
