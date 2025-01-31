@@ -85,16 +85,16 @@ int main()
         
         scanf("%s", &guess);
         while (flag == 1){
-        for (int i = 0; i < 9; ++i){
-            if(guess == wrong_guesses[i*2] || guess == display[i]){
-                flag = 1;
-                printf ("You've entered the letter '%c' already\n", guess);
-                printf("Enter another lowercase letter: ");
-                scanf("%s", &guess);
-                break;
+            for (int i = 0; i < 9; ++i){
+                if(guess == wrong_guesses[i*2] || guess == display[i]){
+                    flag = 1;
+                    printf ("You've entered the letter '%c' already\n", guess);
+                    printf("Enter another lowercase letter: ");
+                    scanf("%s", &guess);
+                    break;
+                }
+                else flag = 0;
             }
-            else flag = 0;
-        }
         }
 
         if (guess == '*'){//(strcmp(guess, "*") == 0){
