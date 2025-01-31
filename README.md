@@ -8,8 +8,8 @@ Create a shell application that can run simple commands from /usr/bin and at lea
 exit: will terminate your application
 
 help: display some details about your application
-
-
+/
+/
 Seminar #2 description:
 Implement a scheduler (MLFQ (Multi Level Feedback Queue) or Lottery) in C
 
