@@ -14,7 +14,7 @@ Seminar #2 description:
 Implement a scheduler (MLFQ (Multi Level Feedback Queue) or Lottery) in C
 
 Note on my Seminar #2: My group were tasked to implement a MLFQ scheduler with round robin queues
-
+<br><br>
 
 Seminar #3 descriptions:
 We can have multiple consumers and multiple producers/vendors (TBD during the seminar).
