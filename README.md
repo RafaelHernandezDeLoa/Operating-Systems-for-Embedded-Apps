@@ -1,8 +1,8 @@
-#### Operating-Systems-for-Embedded-Apps
+# Operating-Systems-for-Embedded-Apps
 
 Consists of the linux programs my group and I had made in this course
 
-Seminar #1 description: 
+##Seminar #1 description: 
 Create a shell application that can run simple commands from /usr/bin and at least 2 custom commands: {exit and help}
 
 exit: will terminate your application
@@ -10,13 +10,13 @@ exit: will terminate your application
 help: display some details about your application
 <br><br>
 
-Seminar #2 description:
+##Seminar #2 description:
 Implement a scheduler (MLFQ (Multi Level Feedback Queue) or Lottery) in C
 
 Note on my Seminar #2: My group were tasked to implement a MLFQ scheduler with round robin queues
 <br><br>
 
-Seminar #3 descriptions:
+##Seminar #3 descriptions:
 We can have multiple consumers and multiple producers/vendors (TBD during the seminar).
 
 Hint: use one condition variable (notification list) for the stock empty and another one for the stock full (stock full = 100 units).
@@ -32,7 +32,7 @@ Consumers show up every TBD seconds. Each consumer is a new thread.
 Producers show up every TBD seconds. Each producer is a new thread.
 <br><br>
 
-Seminar #4 description:
+##Seminar #4 description:
 create your own custom linux driver
 
 Hints:  
