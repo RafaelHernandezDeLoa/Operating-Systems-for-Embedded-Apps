@@ -2,7 +2,7 @@
 
 Consists of the linux programs my group and I had made in this course
 
-## Seminar #1 description: 
+## Seminar #1 Description: 
 Create a shell application that can run simple commands from /usr/bin and at least 2 custom commands: {exit and help}
 
 exit: will terminate your application
