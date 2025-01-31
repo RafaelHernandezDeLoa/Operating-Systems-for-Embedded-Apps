@@ -1,7 +1,6 @@
 # Operating-Systems-for-Embedded-Apps
 
-group/partners effort too, explain that we are group A1
-
+Consists of the linux programs my group and I had made in this course
 
 Seminar #1 description: 
 Create a shell application that can run simple commands from /usr/bin and at least 2 custom commands: {exit and help}
@@ -14,7 +13,7 @@ help: display some details about your application
 Seminar #2 description:
 Implement a scheduler (MLFQ (Multi Level Feedback Queue) or Lottery) in C
 
-^ explain how in our group case we did MLFQ with the round robin method
+Note on my Seminar #2: My group were tasked to implement a MLFQ scheduler with round robin queues
 
 
 Seminar #3 descriptions:
@@ -48,4 +47,4 @@ have 2 integers inside the structure
 param_name (e.g.: READ_POINTER, WRITE_POINTER, RESET_READ_POINTER, RESET_WRITE_POINTER)
 param_value (e.g.: 0)
 
-note: I have to say that my kernal is a hangman game and probably specify it a bit more.
+Note on my Seminar #4: Our kernel is a hangman game and probably specify it a bit more......................
