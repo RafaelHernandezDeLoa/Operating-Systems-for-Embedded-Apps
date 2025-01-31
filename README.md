@@ -30,7 +30,7 @@ Print nice status updates (who is waiting, what is the current stock limit).
 Consumers show up every TBD seconds. Each consumer is a new thread.
 
 Producers show up every TBD seconds. Each producer is a new thread.
-
+<br><br>
 
 Seminar #4 description:
 create your own custom linux driver
