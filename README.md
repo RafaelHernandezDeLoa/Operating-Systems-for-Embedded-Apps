@@ -37,7 +37,7 @@ create your own custom linux driver
 
 Hints:  
 
-https://linux.die.net/man/3/writeLinks to an external site.
+https://linux.die.net/man/3/writeLinks to an external site.\
 https://linux.die.net/man/3/readLinks to an external site.
 man ioctl
 include fs.h and uaccess.h
