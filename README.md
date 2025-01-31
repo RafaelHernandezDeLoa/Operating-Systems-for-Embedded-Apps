@@ -33,7 +33,7 @@ Producers show up every TBD seconds. Each producer is a new thread.
 <br><br>
 
 ## Seminar #4 description:
-create your own custom linux driver
+Create your own custom linux driver
 
 Hints:  
 
